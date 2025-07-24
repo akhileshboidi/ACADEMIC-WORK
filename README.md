@@ -1,2 +1,1 @@
-# ACADEMIC-WORK
-
+# This consists of AI Assignments
